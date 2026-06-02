@@ -1,0 +1,1 @@
+The Online Voting System is a C++-based application designed to automate the voting process in a secure and efficient manner. It allows voters to cast their votes electronically while ensuring transparency, accuracy, and ease of use. The system manages voter registration, authentication, vote casting, and result generation.
